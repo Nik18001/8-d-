@@ -1,0 +1,26 @@
+body{
+    
+    color: black;
+    display: flex;
+    justify-items: center;
+}
+
+h1{
+    display: block;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background: linear-gradient(to right, red, blue);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+}
+
+span{
+    color: black;
+}
+
+img{
+    width: 300px;
+    height: 300px;
+}
